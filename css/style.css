@@ -20,7 +20,7 @@ header {
 }
 
 .titulo {
-    padding: 40px;
+    padding: 30px;
     text-align: center;
     color: white;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.541);
@@ -135,6 +135,7 @@ em > strong {
 
 .saiba-mais > ul {
     list-style-position: inside;
+    text-align: left;
     columns: 2;
 }
 
