@@ -30,6 +30,7 @@ h1 {
     font-family: 'Bebas Neue', cursive;
     font-weight: 400;
     font-size: 3em;
+    text-align: left;
     margin-bottom: 5px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.582);
 }
@@ -93,6 +94,7 @@ h2 {
     font-family: 'idroid';
     font-size: 1.7em;
     font-weight: 400;
+    text-align: left;
 }
 
 article > h3 {
@@ -101,6 +103,7 @@ article > h3 {
     background-image: linear-gradient(to right, var(--cor2), white);
     color: var(--cor4);
     text-indent: 10px;
+    text-align: left;
 }
 
 .robos, .irina {
